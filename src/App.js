@@ -1,13 +1,13 @@
-import './App.css'
-import Accordion from './components/accordion'
+import "./App.css";
+import Accordion from "./components/accordion";
 
 function App() {
   return (
-    <div className='App'>
+    <div className="App">
       {/* Accordion component */}
       <Accordion />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
